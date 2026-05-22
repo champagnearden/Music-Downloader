@@ -1,0 +1,25 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "champagnearden.music-downloader",
+	"name": "Music Downloader",
+	"version": "v1.0.0",
+	"developer": "champagnearden",
+	"description": "Automatically download the song assets",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"tags": ["music", "utility", "enhancement"],
+	"links": {
+		"source": "https://github.com/champagnearden/Music-Downloader"
+	},
+	"issues": {
+		"url": "https://github.com/champagnearden/Music-Downloader/issues",
+		"info": "Report issues on GitHub."
+	}
+}
