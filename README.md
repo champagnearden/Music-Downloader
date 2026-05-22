@@ -1,5 +1,4 @@
 # MusicDownloader
-This is where she makes a mod.
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
@@ -95,13 +94,16 @@ This project is licensed under the MIT License.
 See the [LICENSE](LICENSE.txt) file for details.
 
 ## Build instructions
+
 For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
+
 ```sh
 # Assuming you have the Geode CLI set up already
 geode build
 ```
 
 # Resources
+
 * [Geode SDK Documentation](https://docs.geode-sdk.org/)
 * [Geode SDK Source Code](https://github.com/geode-sdk/geode/)
 * [Geode CLI](https://github.com/geode-sdk/cli)
